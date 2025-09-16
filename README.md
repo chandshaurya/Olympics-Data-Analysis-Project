@@ -1,4 +1,5 @@
-#- 🏅 Olympics Data Analysis Project
+# Olympics Data Analysis Project
+
 
 ## 📌 Project Objective
 The goal of this project is to analyze Olympic Games results and uncover insights into athlete performance, country participation, medal distribution, and event-level trends.  
